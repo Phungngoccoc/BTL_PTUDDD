@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "27090488386",
+    "project_id": "neco-e873a",
+    "storage_bucket": "neco-e873a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27090488386:android:d6422482c70b949243b1db",
+        "android_client_info": {
+          "package_name": "com.example.necomovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27090488386-b8d7h07cu22lmu5j75tu09ocvdp29ldr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuH4FhLVampXdWie_eR_Y7VZHhUQ3pEYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27090488386-b8d7h07cu22lmu5j75tu09ocvdp29ldr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27090488386-erbsnihfn0kash3oksfd32a0vej7lju2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tungduong.NetfilxClone1234"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
