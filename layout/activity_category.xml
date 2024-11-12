@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#060620"
-    tools:context=".CategoryActivity">
+    tools:context=".CategoryActivity" >
     <include
         android:id="@+id/categoryToolbar"
         layout="@layout/detail_toolbar_layout"/>
