@@ -1,0 +1,35 @@
+1. Lập kế hoạch làm việc ghi từng nội dung gửi lên thư mục nhóm
++ Tìm hiểu về đề tài 
+  ( Chương 1: Tổng quan đề tài )
+   1. Giới thiệu đề tài  
+   2. Lí do chọn đề tài
+   3. Tính cấp thiết của đề tài
+   4. Công cụ thực hiện đề tài )
+>>> 50% báo cáo slide 
+   Chương 2: Phân tích thiết kế
+   1. Phân tích 
+   2. Thiết kế
+      DB ( use case, activity diagrame, flowchart, class diagrame nếu co)
+      UI/ UX ( wireframe / mockup)
+   100% slide báo cáo
+   Chương 3: Cài đặt và thử nghiệm
+   1. Hướng dẫn cài đặt 
+   2. Thử nghiệm đánh giá ứng dụng chạy thực tế
+    cần nói rõ môi trường chạy là gì: localhost, online
+    tính năng sử dụng mang tính demo hay đã sử dụng 
+    ( ví dụ bán hàng thì đã bán online đc chưa, có update CSDL ko, có thống kê không ? có thanh toán online ko ( Chuyển khoản, Momo, paypal... )
+    3. Kết luận 
+     Kết quả đạt được:
+     Định hướng phát triển:
+    --------------------------------
+Tài liệu tham khảo
+[1]. Tên sách - tên tác giả - tên nhà xb - năm xb
+ghi các quyển sách , giáo trình chính thống trước
+tài liệu online để cuối
+-------
+phụ lục:
+[1] Kế hoạch kiểm thử và các testcase ( cho vào gg link gắn vào đây)
+[2] Các bảng biểu nếu dài 
+[3] Mã nguồn chương trình . github .có lịch sử code , có phân quyền đúng theo bảng kế hoạch
+
+   
